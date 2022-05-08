@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,GAAG;EACd,WAAW,EAAE,MAAM;CAItB;;AAPD,AAII,IAJA,CAIA,EAAE,CAAA;EACE,mBAAmB,EAAE,MAAM;CAC9B",
+    "sources": [
+        "clock.scss"
+    ],
+    "names": [],
+    "file": "clock.css"
+}
